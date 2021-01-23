@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "EMPLOYEE": "Nahid Hasan Limon",
+        "DESIGNATION": "SOFTWARE ENGINEER",
+        "LOCATION_STREET_NAME": "Dhaka Commerce College",
+        "LOCATION_ZIPCODE": 1216,
+        "LATITUDE": 23.806746,
+        "LONGITUDE": 90.3529347,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3529347,
+          23.806746
+        ]
+      }
+    },
+    "features": [
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "EMPLOYEE": "Shaon Minhaz",
+        "DESIGNATION": "Content Director",
+        "LOCATION_STREET_NAME": "NIKUNJA 1",
+        "LOCATION_ZIPCODE": 1216,
+        "LATITUDE": 23.8242795,
+        "LONGITUDE": 90.4191806,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4191806,
+          23.8242795
+        ]
+      }
+    }{
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "EMPLOYEE": "Nahid Hasan Limon",
+         "DESIGNATION": "SOFTWARE ENGINEER",
+        "LOCATION_STREET_NAME": "Dhaka Commerce College",
+        "LOCATION_ZIPCODE": 1216,
+        "LATITUDE": 23.806746,
+        "LONGITUDE": 90.3529347,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3529347,
+          23.806746
+        ]
+      }
+    },
+     ]
+}

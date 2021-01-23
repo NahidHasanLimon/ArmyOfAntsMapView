@@ -1,0 +1,4220 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "EMPLOYEE": "Nahid Hasan Limon",
+	    "DESIGNATION": "SOFTWARE ENGINEER",
+	    "IMAGE_SOURCE": "http://placehold.it/60x60",
+        "LOCATION_STREET_NAME": "Dhaka Commerce College",
+        "LOCATION_ZIPCODE": 1216,
+        "LATITUDE": 23.806746,
+        "LONGITUDE": 90.3529347,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3529347,
+          23.806746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+ 		"EMPLOYEE": "Shaon Minhaz",
+        "DESIGNATION": "Content Director",
+        "IMAGE_SOURCE": "rant.png",
+        "LOCATION_STREET_NAME": "NIKUNJA 1",
+        "LOCATION_ZIPCODE": 1216,
+        "LATITUDE": 23.8242795,
+        "LONGITUDE": 90.4191806,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4191806,
+          23.8242795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000828597.0,
+        "OPEN_DT": "04/26/2013 01:14:08 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "Case Closed VIOISS: Violation Filed ",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "108 Gladstone St  East Boston  MA  02128",
+        "fire_district": 1,
+        "pwd_district": "09",
+        "city_council_district": 1,
+        "police_district": "A7",
+        "neighborhood": "East Boston",
+        "neighborhood_services_district": 1,
+        "ward": "Ward 1",
+        "precinct": 113,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "108 Gladstone St",
+        "LOCATION_ZIPCODE": 2128,
+        "LATITUDE": 42.38914,
+        "LONGITUDE": -71.0047,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40177345275879,
+          23.79697809317055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000826935.0,
+        "OPEN_DT": "04/24/2013 12:02:06 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "64 Newfield St  West Roxbury  MA  02132",
+        "fire_district": 12,
+        "pwd_district": "06",
+        "city_council_district": 6,
+        "police_district": "E5",
+        "neighborhood": "West Roxbury",
+        "neighborhood_services_district": 12,
+        "ward": "Ward 20",
+        "precinct": 2017,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "64 Newfield St",
+        "LOCATION_ZIPCODE": 2132,
+        "LATITUDE": 42.29048,
+        "LONGITUDE": -71.16706,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16706,
+          42.29048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000821482.0,
+        "OPEN_DT": "04/12/2013 08:08:29 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "33 Edison Grn  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 2,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 5,
+        "ward": "Ward 7",
+        "precinct": 709,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "33 Edison Grn",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.31951,
+        "LONGITUDE": -71.05852,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05852,
+          42.31951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000818710.0,
+        "OPEN_DT": "04/08/2013 12:16:57 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "365 Marlborough St  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Back Bay",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 509,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "365 Marlborough St",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.35084,
+        "LONGITUDE": -71.08706,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08706,
+          42.35084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000797114.0,
+        "OPEN_DT": "03/06/2013 11:49:37 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "62 N Beacon St  Allston  MA  02134",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2106,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "62 N Beacon St",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.35387,
+        "LONGITUDE": -71.14112,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14112,
+          42.35387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000719207.0,
+        "OPEN_DT": "12/10/2012 10:28:19 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "51 Hemenway St  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 407,
+        "land_usage": "CD",
+        "LOCATION_STREET_NAME": "51 Hemenway St",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.34518,
+        "LONGITUDE": -71.08983,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08983,
+          42.34518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000706871.0,
+        "OPEN_DT": "11/15/2012 01:56:24 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "134-131 Tremont St  Boston  MA  02111",
+        "fire_district": 3,
+        "pwd_district": "1C",
+        "city_council_district": 2,
+        "police_district": "A1",
+        "neighborhood": "Boston",
+        "neighborhood_services_district": 4,
+        "ward": "03",
+        "precinct": 308,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "134-131 Tremont St",
+        "LOCATION_ZIPCODE": 2111,
+        "LATITUDE": 42.355965,
+        "LONGITUDE": -71.062189,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.062189,
+          42.355965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000500743.0,
+        "OPEN_DT": "10/31/2012 10:23:04 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "249 Washington St  Dorchester  MA  02121",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 4,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 14",
+        "precinct": 1402,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "249 Washington St",
+        "LOCATION_ZIPCODE": 2121,
+        "LATITUDE": 42.30132,
+        "LONGITUDE": -71.07695,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07695,
+          42.30132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000495255.0,
+        "OPEN_DT": "10/22/2012 09:12:25 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "21 Ridgeway Ln  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 1,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 3,
+        "ward": "Ward 3",
+        "precinct": 306,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "21 Ridgeway Ln",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.36059,
+        "LONGITUDE": -71.06401,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06401,
+          42.36059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000495233.0,
+        "OPEN_DT": "10/22/2012 08:54:25 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "136 Chiswick Rd  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2115,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "136 Chiswick Rd",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.34056,
+        "LONGITUDE": -71.15332,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15332,
+          42.34056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000485811.0,
+        "OPEN_DT": "09/28/2012 02:01:04 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "341 Bunker Hill St  Charlestown  MA  02129",
+        "fire_district": 3,
+        "pwd_district": "1A",
+        "city_council_district": 1,
+        "police_district": "A15",
+        "neighborhood": "Charlestown",
+        "neighborhood_services_district": 2,
+        "ward": "Ward 2",
+        "precinct": 207,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "341 Bunker Hill St",
+        "LOCATION_ZIPCODE": 2129,
+        "LATITUDE": 42.381527,
+        "LONGITUDE": -71.067475,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.067475,
+          42.381527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000481938.0,
+        "OPEN_DT": "09/20/2012 09:11:27 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "88 Pembroke St  Roxbury  MA  02118",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 2,
+        "police_district": "D4",
+        "neighborhood": "South End",
+        "neighborhood_services_district": 6,
+        "ward": "Ward 4",
+        "precinct": 403,
+        "land_usage": "CD",
+        "LOCATION_STREET_NAME": "88 Pembroke St",
+        "LOCATION_ZIPCODE": 2118,
+        "LATITUDE": 42.34201,
+        "LONGITUDE": -71.07653,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07653,
+          42.34201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000479893.0,
+        "OPEN_DT": "09/17/2012 09:04:06 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "22 Worthington St  Mission Hill  MA  02120",
+        "fire_district": 9,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "B2",
+        "neighborhood": "Mission Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 10",
+        "precinct": 1002,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "22 Worthington St",
+        "LOCATION_ZIPCODE": 2120,
+        "LATITUDE": 42.334346,
+        "LONGITUDE": -71.102306,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.102306,
+          42.334346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000478329.0,
+        "OPEN_DT": "09/13/2012 08:29:49 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "95 Normandy St  Dorchester  MA  02121",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 4,
+        "police_district": "B2",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 14",
+        "precinct": 1401,
+        "land_usage": "RL",
+        "LOCATION_STREET_NAME": "95 Normandy St",
+        "LOCATION_ZIPCODE": 2121,
+        "LATITUDE": 42.309622,
+        "LONGITUDE": -71.080222,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.080222,
+          42.309622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000474248.0,
+        "OPEN_DT": "09/05/2012 02:46:08 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "43-47 O St  South Boston  MA  02127",
+        "fire_district": 6,
+        "pwd_district": "05",
+        "city_council_district": 2,
+        "police_district": "C6",
+        "neighborhood": "South Boston / South Boston Waterfront",
+        "neighborhood_services_district": 5,
+        "ward": "Ward 6",
+        "precinct": 607,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "43-47 O St",
+        "LOCATION_ZIPCODE": 2127,
+        "LATITUDE": 42.336769,
+        "LONGITUDE": -71.029401,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.029401,
+          42.336769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000473919.0,
+        "OPEN_DT": "09/04/2012 11:49:51 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "33 Cunningham St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 7,
+        "police_district": "B2",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 13",
+        "precinct": 1304,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "33 Cunningham St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.31451,
+        "LONGITUDE": -71.07487,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07487,
+          42.31451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000473141.0,
+        "OPEN_DT": "09/01/2012 07:33:09 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "7 Phillips St  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 504,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "7 Phillips St",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.3604,
+        "LONGITUDE": -71.06677,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06677,
+          42.3604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000473007.0,
+        "OPEN_DT": "09/01/2012 11:58:58 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "8 Hall St  Jamaica Plain  MA  02130",
+        "fire_district": 9,
+        "pwd_district": "02",
+        "city_council_district": 6,
+        "police_district": "E13",
+        "neighborhood": "Jamaica Plain",
+        "neighborhood_services_district": 11,
+        "ward": "Ward 11",
+        "precinct": 1110,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "8 Hall St",
+        "LOCATION_ZIPCODE": 2130,
+        "LATITUDE": 42.30497,
+        "LONGITUDE": -71.11428,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11428,
+          42.30497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000472663.0,
+        "OPEN_DT": "08/31/2012 02:13:59 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "45 Hemenway St  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 407,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "45 Hemenway St",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.34537,
+        "LONGITUDE": -71.08978,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08978,
+          42.34537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000472499.0,
+        "OPEN_DT": "08/31/2012 11:08:41 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "4 Goodwin Pl  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 504,
+        "land_usage": "CD",
+        "LOCATION_STREET_NAME": "4 Goodwin Pl",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.35988,
+        "LONGITUDE": -71.06918,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06918,
+          42.35988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000472151.0,
+        "OPEN_DT": "08/30/2012 05:52:52 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "81 Charles St  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 511,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "81 Charles St",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.35843,
+        "LONGITUDE": -71.07045,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07045,
+          42.35843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000471889.0,
+        "OPEN_DT": "08/30/2012 11:28:19 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "47 Revere St  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 504,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "47 Revere St",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.35965,
+        "LONGITUDE": -71.06814,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06814,
+          42.35965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000471816.0,
+        "OPEN_DT": "08/30/2012 10:22:44 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "101 Etna St  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 22",
+        "precinct": 2203,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "101 Etna St",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.352373,
+        "LONGITUDE": -71.148504,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148504,
+          42.352373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000471716.0,
+        "OPEN_DT": "08/30/2012 08:55:07 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "1 City Hall Plz  Boston  MA  02108",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 1,
+        "police_district": "A1",
+        "neighborhood": "Downtown / Financial District",
+        "neighborhood_services_district": 3,
+        "ward": "03",
+        "precinct": 306,
+        "land_usage": "E",
+        "LOCATION_STREET_NAME": "1 City Hall Plz",
+        "LOCATION_ZIPCODE": 2108,
+        "LATITUDE": 42.36042,
+        "LONGITUDE": -71.058274,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.058274,
+          42.36042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000471300.0,
+        "OPEN_DT": "08/29/2012 01:17:14 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "9 Greenwich Park  Roxbury  MA  02118",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 7,
+        "police_district": "D4",
+        "neighborhood": "South End",
+        "neighborhood_services_district": 6,
+        "ward": "Ward 4",
+        "precinct": 404,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "9 Greenwich Park",
+        "LOCATION_ZIPCODE": 2118,
+        "LATITUDE": 42.342561,
+        "LONGITUDE": -71.080109,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.080109,
+          42.342561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000470939.0,
+        "OPEN_DT": "08/29/2012 08:25:31 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "20-22 Spaulding St  Dorchester  MA  02122",
+        "fire_district": 8,
+        "pwd_district": "07",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 7,
+        "ward": "Ward 16",
+        "precinct": 1607,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "20-22 Spaulding St",
+        "LOCATION_ZIPCODE": 2122,
+        "LATITUDE": 42.292183,
+        "LONGITUDE": -71.054972,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.054972,
+          42.292183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000470705.0,
+        "OPEN_DT": "08/28/2012 06:08:11 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "4 Downer Ct  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 15",
+        "precinct": 1504,
+        "land_usage": "RL",
+        "LOCATION_STREET_NAME": "4 Downer Ct",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.309613,
+        "LONGITUDE": -71.064377,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.064377,
+          42.309613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000470689.0,
+        "OPEN_DT": "08/28/2012 06:07:42 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "81-83 Millet St  Dorchester  MA  02124",
+        "fire_district": 8,
+        "pwd_district": "07",
+        "city_council_district": 4,
+        "police_district": "B3",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 9,
+        "ward": "Ward 17",
+        "precinct": 1703,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "81-83 Millet St",
+        "LOCATION_ZIPCODE": 2124,
+        "LATITUDE": 42.29371,
+        "LONGITUDE": -71.07717,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07717,
+          42.29371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000470280.0,
+        "OPEN_DT": "08/27/2012 11:29:34 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "INTERSECTION of A St & Binford St  Boston  MA  ",
+        "fire_district": 6,
+        "pwd_district": "05",
+        "city_council_district": 2,
+        "police_district": "C6",
+        "neighborhood": "South Boston / South Boston Waterfront",
+        "neighborhood_services_district": 5,
+        "ward": "Ward 6",
+        "precinct": 601,
+        "land_usage": "",
+        "LOCATION_STREET_NAME": "INTERSECTION A St & Binford St",
+        "LOCATION_ZIPCODE": null,
+        "LATITUDE": 42.344837,
+        "LONGITUDE": -71.053148,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.053148,
+          42.344837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000470244.0,
+        "OPEN_DT": "08/27/2012 10:58:55 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "30 Glenville Ave  Allston  MA  02134",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2105,
+        "land_usage": "CD",
+        "LOCATION_STREET_NAME": "30 Glenville Ave",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.3503,
+        "LONGITUDE": -71.13293,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13293,
+          42.3503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000470238.0,
+        "OPEN_DT": "08/27/2012 10:52:01 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "8 Greenwich Park  Roxbury  MA  02118",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 7,
+        "police_district": "D4",
+        "neighborhood": "South End",
+        "neighborhood_services_district": 6,
+        "ward": "Ward 4",
+        "precinct": 404,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "8 Greenwich Park",
+        "LOCATION_ZIPCODE": 2118,
+        "LATITUDE": 42.34229,
+        "LONGITUDE": -71.08036,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08036,
+          42.34229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000469952.0,
+        "OPEN_DT": "08/26/2012 06:22:11 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "26 Chestnut St  Boston  MA  02108",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 503,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "26 Chestnut St",
+        "LOCATION_ZIPCODE": 2108,
+        "LATITUDE": 42.357391,
+        "LONGITUDE": -71.06746,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06746,
+          42.357391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000469783.0,
+        "OPEN_DT": "08/25/2012 10:50:52 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "46 Fenway  Boston  MA  02215",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 407,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "46 Fenway",
+        "LOCATION_ZIPCODE": 2215,
+        "LATITUDE": 42.34505,
+        "LONGITUDE": -71.09033,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09033,
+          42.34505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000469360.0,
+        "OPEN_DT": "08/24/2012 11:17:19 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "28 Haviland St  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 406,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "28 Haviland St",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.346115,
+        "LONGITUDE": -71.089022,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.089022,
+          42.346115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000469213.0,
+        "OPEN_DT": "08/24/2012 09:14:42 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "18 Garden St  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 504,
+        "land_usage": "CD",
+        "LOCATION_STREET_NAME": "18 Garden St",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.36074,
+        "LONGITUDE": -71.06677,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06677,
+          42.36074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000468692.0,
+        "OPEN_DT": "08/23/2012 10:25:19 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "INTERSECTION of W Cedar St & Pinckney St  Boston  MA  ",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 503,
+        "land_usage": "",
+        "LOCATION_STREET_NAME": "INTERSECTION W Cedar St & Pinckney St",
+        "LOCATION_ZIPCODE": null,
+        "LATITUDE": 42.34373,
+        "LONGITUDE": -71.141562,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.141562,
+          42.34373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000468181.0,
+        "OPEN_DT": "08/22/2012 11:07:33 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "26 Allston St  Allston  MA  02134",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2106,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "26 Allston St",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.35222,
+        "LONGITUDE": -71.13492,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13492,
+          42.35222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000468168.0,
+        "OPEN_DT": "08/22/2012 11:07:18 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": " ",
+        "fire_district": null,
+        "pwd_district": " ",
+        "city_council_district": null,
+        "police_district": " ",
+        "neighborhood": " ",
+        "neighborhood_services_district": null,
+        "ward": " ",
+        "precinct": null,
+        "land_usage": " ",
+        "LOCATION_STREET_NAME": "",
+        "LOCATION_ZIPCODE": null,
+        "LATITUDE": 42.3594,
+        "LONGITUDE": -71.0587,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0587,
+          42.3594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000468162.0,
+        "OPEN_DT": "08/22/2012 11:07:09 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "41 Bakersfield St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 7,
+        "ward": "Ward 13",
+        "precinct": 1306,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "41 Bakersfield St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.31666,
+        "LONGITUDE": -71.06125,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06125,
+          42.31666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000468152.0,
+        "OPEN_DT": "08/22/2012 11:07:00 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "36 Rockvale Cir  Jamaica Plain  MA  02130",
+        "fire_district": 9,
+        "pwd_district": "02",
+        "city_council_district": 6,
+        "police_district": "E13",
+        "neighborhood": "Jamaica Plain",
+        "neighborhood_services_district": 11,
+        "ward": "Ward 11",
+        "precinct": 1107,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "36 Rockvale Cir",
+        "LOCATION_ZIPCODE": 2130,
+        "LATITUDE": 42.30714,
+        "LONGITUDE": -71.10473,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10473,
+          42.30714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000467774.0,
+        "OPEN_DT": "08/21/2012 03:38:36 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "75 Sydney St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 7,
+        "ward": "Ward 13",
+        "precinct": 1310,
+        "land_usage": "E",
+        "LOCATION_STREET_NAME": "75 Sydney St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.3141,
+        "LONGITUDE": -71.05252,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05252,
+          42.3141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000467567.0,
+        "OPEN_DT": "08/21/2012 11:34:15 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "40-42 Cedar Lane Way  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 511,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "40-42 Cedar Lane Way",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.358333,
+        "LONGITUDE": -71.07017,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07017,
+          42.358333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000467084.0,
+        "OPEN_DT": "08/20/2012 02:16:19 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "5110 Washington St  West Roxbury  MA  02132",
+        "fire_district": 12,
+        "pwd_district": "06",
+        "city_council_district": 6,
+        "police_district": "E5",
+        "neighborhood": "West Roxbury",
+        "neighborhood_services_district": 10,
+        "ward": "Ward 20",
+        "precinct": 2003,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "5110 Washington St",
+        "LOCATION_ZIPCODE": 2132,
+        "LATITUDE": 42.26355,
+        "LONGITUDE": -71.15403,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15403,
+          42.26355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000466977.0,
+        "OPEN_DT": "08/20/2012 11:58:28 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "43 Hemenway St  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 407,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "43 Hemenway St",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.34542,
+        "LONGITUDE": -71.08977,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08977,
+          42.34542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000465542.0,
+        "OPEN_DT": "08/16/2012 12:26:29 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "26 Fenway   Boston  MA  02215",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Boston",
+        "neighborhood_services_district": 14,
+        "ward": "04",
+        "precinct": 407,
+        "land_usage": "E",
+        "LOCATION_STREET_NAME": "26 Fenway ",
+        "LOCATION_ZIPCODE": 2215,
+        "LATITUDE": 42.3458,
+        "LONGITUDE": -71.09009,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09009,
+          42.3458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000465516.0,
+        "OPEN_DT": "08/16/2012 11:56:26 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "76 Hancock St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 7,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 13",
+        "precinct": 1305,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "76 Hancock St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.31314,
+        "LONGITUDE": -71.06469,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06469,
+          42.31314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000463964.0,
+        "OPEN_DT": "08/13/2012 03:12:27 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "0 N Beacon St  Allston  MA  02134",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston",
+        "neighborhood_services_district": 15,
+        "ward": "21",
+        "precinct": 2106,
+        "land_usage": "C",
+        "LOCATION_STREET_NAME": "0 N Beacon St",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.35436,
+        "LONGITUDE": -71.14315,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14315,
+          42.35436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000462578.0,
+        "OPEN_DT": "08/09/2012 04:17:03 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "5 Symphony Rd  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 407,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "5 Symphony Rd",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.34288,
+        "LONGITUDE": -71.08694,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08694,
+          42.34288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000462255.0,
+        "OPEN_DT": "08/09/2012 09:31:04 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "26 Hemenway St  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 406,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "26 Hemenway St",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.34591,
+        "LONGITUDE": -71.08913,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08913,
+          42.34591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000461525.0,
+        "OPEN_DT": "08/07/2012 03:07:37 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "137 Beacon St  Boston  MA  02116",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Boston",
+        "neighborhood_services_district": 14,
+        "ward": "05",
+        "precinct": 506,
+        "land_usage": "E",
+        "LOCATION_STREET_NAME": "137 Beacon St",
+        "LOCATION_ZIPCODE": 2116,
+        "LATITUDE": 42.35473,
+        "LONGITUDE": -71.07411,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07411,
+          42.35473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000460940.0,
+        "OPEN_DT": "08/06/2012 02:55:26 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "193 Norfolk St  Dorchester  MA  02124",
+        "fire_district": 8,
+        "pwd_district": "07",
+        "city_council_district": 4,
+        "police_district": "B3",
+        "neighborhood": "Greater Mattapan",
+        "neighborhood_services_district": 9,
+        "ward": "Ward 17",
+        "precinct": 1707,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "193 Norfolk St",
+        "LOCATION_ZIPCODE": 2124,
+        "LATITUDE": 42.28631,
+        "LONGITUDE": -71.07988,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07988,
+          42.28631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000458828.0,
+        "OPEN_DT": "08/01/2012 02:22:31 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "25 Rill St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 15",
+        "precinct": 1504,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "25 Rill St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.3118,
+        "LONGITUDE": -71.06533,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06533,
+          42.3118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000458518.0,
+        "OPEN_DT": "08/01/2012 09:05:46 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "51 Park Vale Ave  Allston  MA  02134",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2105,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "51 Park Vale Ave",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.35265,
+        "LONGITUDE": -71.13296,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13296,
+          42.35265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000458512.0,
+        "OPEN_DT": "08/01/2012 08:58:58 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "55 Hemenway St  Boston  MA  02115",
+        "fire_district": 4,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Fenway / Kenmore / Audubon Circle / Longwood",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 4",
+        "precinct": 407,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "55 Hemenway St",
+        "LOCATION_ZIPCODE": 2115,
+        "LATITUDE": 42.34505,
+        "LONGITUDE": -71.08987,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08987,
+          42.34505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000450769.0,
+        "OPEN_DT": "07/17/2012 09:37:29 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "638 Tremont St  Roxbury  MA  02118",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 2,
+        "police_district": "D4",
+        "neighborhood": "South End",
+        "neighborhood_services_district": 6,
+        "ward": "Ward 9",
+        "precinct": 901,
+        "land_usage": "EA",
+        "LOCATION_STREET_NAME": "638 Tremont St",
+        "LOCATION_ZIPCODE": 2118,
+        "LATITUDE": 42.34205,
+        "LONGITUDE": -71.0746,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0746,
+          42.34205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000446381.0,
+        "OPEN_DT": "07/07/2012 04:42:25 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "82 Winthrop St  Roxbury  MA  02119",
+        "fire_district": 7,
+        "pwd_district": "10B",
+        "city_council_district": 7,
+        "police_district": "B2",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 8",
+        "precinct": 807,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "82 Winthrop St",
+        "LOCATION_ZIPCODE": 2119,
+        "LATITUDE": 42.3247,
+        "LONGITUDE": -71.07814,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07814,
+          42.3247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000444093.0,
+        "OPEN_DT": "07/02/2012 12:06:59 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "21 Wallingford Rd  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2113,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "21 Wallingford Rd",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.34174,
+        "LONGITUDE": -71.15129,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15129,
+          42.34174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000444090.0,
+        "OPEN_DT": "07/02/2012 12:04:30 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "73-75 Causeway St  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 1,
+        "police_district": "A1",
+        "neighborhood": "Downtown / Financial District",
+        "neighborhood_services_district": 3,
+        "ward": "Ward 3",
+        "precinct": 306,
+        "land_usage": "CL",
+        "LOCATION_STREET_NAME": "73-75 Causeway St",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.364522,
+        "LONGITUDE": -71.062535,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.062535,
+          42.364522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000443948.0,
+        "OPEN_DT": "07/02/2012 10:14:07 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "83 Wensley St  Mission Hill  MA  02120",
+        "fire_district": 9,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "B2",
+        "neighborhood": "Mission Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 10",
+        "precinct": 1005,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "83 Wensley St",
+        "LOCATION_ZIPCODE": 2120,
+        "LATITUDE": 42.32753,
+        "LONGITUDE": -71.10367,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10367,
+          42.32753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000443187.0,
+        "OPEN_DT": "06/29/2012 11:42:38 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": " ",
+        "fire_district": null,
+        "pwd_district": " ",
+        "city_council_district": null,
+        "police_district": " ",
+        "neighborhood": " ",
+        "neighborhood_services_district": null,
+        "ward": " ",
+        "precinct": null,
+        "land_usage": " ",
+        "LOCATION_STREET_NAME": "",
+        "LOCATION_ZIPCODE": null,
+        "LATITUDE": 42.3594,
+        "LONGITUDE": -71.0587,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0587,
+          42.3594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000441697.0,
+        "OPEN_DT": "06/26/2012 02:57:20 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "91 Gordon St  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2109,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "91 Gordon St",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.349718,
+        "LONGITUDE": -71.140242,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140242,
+          42.349718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000438754.0,
+        "OPEN_DT": "06/19/2012 02:42:25 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "109-111 Charter St  Boston  MA  02113",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 1,
+        "police_district": "A1",
+        "neighborhood": "Downtown / Financial District",
+        "neighborhood_services_district": 3,
+        "ward": "Ward 3",
+        "precinct": 302,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "109-111 Charter St",
+        "LOCATION_ZIPCODE": 2113,
+        "LATITUDE": 42.36811,
+        "LONGITUDE": -71.05628,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05628,
+          42.36811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000438751.0,
+        "OPEN_DT": "06/19/2012 02:38:59 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "19 Wallingford Rd  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2113,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "19 Wallingford Rd",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.34165,
+        "LONGITUDE": -71.15131,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15131,
+          42.34165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000438744.0,
+        "OPEN_DT": "06/19/2012 02:32:10 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "559-569 Washington St  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 22",
+        "precinct": 2207,
+        "land_usage": "C",
+        "LOCATION_STREET_NAME": "559-569 Washington St",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.34991,
+        "LONGITUDE": -71.1643,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1643,
+          42.34991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000437438.0,
+        "OPEN_DT": "06/15/2012 03:42:16 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "1486-1490 Tremont St  Mission Hill  MA  02120",
+        "fire_district": 9,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "B2",
+        "neighborhood": "Mission Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 10",
+        "precinct": 1002,
+        "land_usage": "I",
+        "LOCATION_STREET_NAME": "1486-1490 Tremont St",
+        "LOCATION_ZIPCODE": 2120,
+        "LATITUDE": 42.331767,
+        "LONGITUDE": -71.098849,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.098849,
+          42.331767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000435628.0,
+        "OPEN_DT": "06/12/2012 01:21:49 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "19 Wallingford Rd  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2113,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "19 Wallingford Rd",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.34165,
+        "LONGITUDE": -71.15131,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15131,
+          42.34165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000431757.0,
+        "OPEN_DT": "06/04/2012 11:19:09 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "4 Beale St  Dorchester  MA  02124",
+        "fire_district": 8,
+        "pwd_district": "07",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 7,
+        "ward": "Ward 16",
+        "precinct": 1608,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "4 Beale St",
+        "LOCATION_ZIPCODE": 2124,
+        "LATITUDE": 42.28318,
+        "LONGITUDE": -71.06475,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06475,
+          42.28318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000427475.0,
+        "OPEN_DT": "05/25/2012 10:11:09 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "215 Commonwealth Ave  Boston  MA  02116",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Back Bay",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 508,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "215 Commonwealth Ave",
+        "LOCATION_ZIPCODE": 2116,
+        "LATITUDE": 42.351406,
+        "LONGITUDE": -71.081636,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.081636,
+          42.351406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000425812.0,
+        "OPEN_DT": "05/22/2012 12:06:25 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "61 Burrell St  Roxbury  MA  02119",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 7,
+        "police_district": "B2",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 8",
+        "precinct": 806,
+        "land_usage": "C",
+        "LOCATION_STREET_NAME": "61 Burrell St",
+        "LOCATION_ZIPCODE": 2119,
+        "LATITUDE": 42.323123,
+        "LONGITUDE": -71.069585,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069585,
+          42.323123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000425642.0,
+        "OPEN_DT": "05/22/2012 07:39:01 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "34 Sparhawk St  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 22",
+        "precinct": 2203,
+        "land_usage": "E",
+        "LOCATION_STREET_NAME": "34 Sparhawk St",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.351339,
+        "LONGITUDE": -71.151577,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.151577,
+          42.351339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000422066.0,
+        "OPEN_DT": "05/15/2012 08:59:46 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "9 Wilbur St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 7,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 13",
+        "precinct": 1305,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "9 Wilbur St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.31552,
+        "LONGITUDE": -71.06563,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06563,
+          42.31552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000419156.0,
+        "OPEN_DT": "05/09/2012 09:44:57 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "240 Marlborough St  Boston  MA  02116",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Back Bay",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 508,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "240 Marlborough St",
+        "LOCATION_ZIPCODE": 2116,
+        "LATITUDE": 42.35179,
+        "LONGITUDE": -71.08179,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08179,
+          42.35179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000416699.0,
+        "OPEN_DT": "05/03/2012 01:44:34 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "1027 Commonwealth Ave  Boston  MA  02215",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 21",
+        "precinct": 2103,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "1027 Commonwealth Ave",
+        "LOCATION_ZIPCODE": 2215,
+        "LATITUDE": 42.352231,
+        "LONGITUDE": -71.121594,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.121594,
+          42.352231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000399100.0,
+        "OPEN_DT": "03/23/2012 07:05:50 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "37 Hendry St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 15",
+        "precinct": 1504,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "37 Hendry St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.31009,
+        "LONGITUDE": -71.06576,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06576,
+          42.31009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000390720.0,
+        "OPEN_DT": "03/05/2012 08:21:47 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "5 Ayr Rd  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2114,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "5 Ayr Rd",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.33686,
+        "LONGITUDE": -71.149,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.149,
+          42.33686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000386317.0,
+        "OPEN_DT": "02/21/2012 10:23:13 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "172 Leyden St  East Boston  MA  02128",
+        "fire_district": 1,
+        "pwd_district": "09",
+        "city_council_district": 1,
+        "police_district": "A7",
+        "neighborhood": "East Boston",
+        "neighborhood_services_district": 1,
+        "ward": "Ward 1",
+        "precinct": 113,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "172 Leyden St",
+        "LOCATION_ZIPCODE": 2128,
+        "LATITUDE": 42.3889,
+        "LONGITUDE": -71.00513,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00513,
+          42.3889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000384181.0,
+        "OPEN_DT": "02/14/2012 10:40:14 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "25 Dennis St  Roxbury  MA  02119",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 7,
+        "police_district": "B2",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 8",
+        "precinct": 807,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "25 Dennis St",
+        "LOCATION_ZIPCODE": 2119,
+        "LATITUDE": 42.32275,
+        "LONGITUDE": -71.07526,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07526,
+          42.32275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000383309.0,
+        "OPEN_DT": "02/10/2012 12:46:07 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "1733 Commonwealth Ave  Brighton  MA  02135",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2113,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "1733 Commonwealth Ave",
+        "LOCATION_ZIPCODE": 2135,
+        "LATITUDE": 42.3419,
+        "LONGITUDE": -71.1491,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1491,
+          42.3419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000379988.0,
+        "OPEN_DT": "02/01/2012 02:26:41 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "252 Marlborough St  Boston  MA  02116",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Back Bay",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 508,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "252 Marlborough St",
+        "LOCATION_ZIPCODE": 2116,
+        "LATITUDE": 42.35167,
+        "LONGITUDE": -71.08222,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08222,
+          42.35167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000373127.0,
+        "OPEN_DT": "01/11/2012 11:08:12 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "5 Upham Ave  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 7,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 13",
+        "precinct": 1305,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "5 Upham Ave",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.31526,
+        "LONGITUDE": -71.0656,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0656,
+          42.31526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000370975.0,
+        "OPEN_DT": "01/05/2012 12:39:06 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "Case Closed NOVIO: No Violation Found/No Cause ",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "INTERSECTION of Cenacle Rd & Lake St  Brighton  MA  ",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 22",
+        "precinct": 2208,
+        "land_usage": "",
+        "LOCATION_STREET_NAME": "INTERSECTION Cenacle Rd & Lake St",
+        "LOCATION_ZIPCODE": null,
+        "LATITUDE": 42.34362,
+        "LONGITUDE": -71.141672,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.141672,
+          42.34362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000370864.0,
+        "OPEN_DT": "01/05/2012 10:08:12 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "610 Columbus Ave  Roxbury  MA  02118",
+        "fire_district": 9,
+        "pwd_district": "10B",
+        "city_council_district": 7,
+        "police_district": "D4",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 9",
+        "precinct": 903,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "610 Columbus Ave",
+        "LOCATION_ZIPCODE": 2118,
+        "LATITUDE": 42.33969,
+        "LONGITUDE": -71.08251,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08251,
+          42.33969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000369043.0,
+        "OPEN_DT": "12/30/2011 09:23:38 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "50 Park Vale Ave  Allston  MA  02134",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2105,
+        "land_usage": "A",
+        "LOCATION_STREET_NAME": "50 Park Vale Ave",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.35264,
+        "LONGITUDE": -71.13344,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13344,
+          42.35264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000366696.0,
+        "OPEN_DT": "12/21/2011 11:53:25 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "8 Barnes Ave  East Boston  MA  02128",
+        "fire_district": 1,
+        "pwd_district": "09",
+        "city_council_district": 1,
+        "police_district": "A7",
+        "neighborhood": "East Boston",
+        "neighborhood_services_district": 1,
+        "ward": "Ward 1",
+        "precinct": 112,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "8 Barnes Ave",
+        "LOCATION_ZIPCODE": 2128,
+        "LATITUDE": 42.38593,
+        "LONGITUDE": -71.00657,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00657,
+          42.38593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000356347.0,
+        "OPEN_DT": "11/21/2011 05:58:30 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "Case Closed VIOISS: Violation Filed ",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "120 Commonwealth Ave  Boston  MA  02116",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Back Bay",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 507,
+        "land_usage": "CD",
+        "LOCATION_STREET_NAME": "120 Commonwealth Ave",
+        "LOCATION_ZIPCODE": 2116,
+        "LATITUDE": 42.351802,
+        "LONGITUDE": -71.076817,
+        "Source": "Self Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.076817,
+          42.351802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000354709.0,
+        "OPEN_DT": "11/16/2011 11:43:13 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "123 Newbury St  Boston  MA  02116",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 8,
+        "police_district": "D4",
+        "neighborhood": "Back Bay",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 507,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "123 Newbury St",
+        "LOCATION_ZIPCODE": 2116,
+        "LATITUDE": 42.351433,
+        "LONGITUDE": -71.076557,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.076557,
+          42.351433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000351418.0,
+        "OPEN_DT": "11/07/2011 11:00:12 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "Hurray",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 22",
+        "precinct": 2202,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "2 Mead St",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.36153,
+        "LONGITUDE": -71.13203,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13203,
+          42.36153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000343040.0,
+        "OPEN_DT": "10/17/2011 08:59:52 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "44-46 Sagamore St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 7,
+        "ward": "Ward 13",
+        "precinct": 1309,
+        "land_usage": "R2",
+        "LOCATION_STREET_NAME": "44-46 Sagamore St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.314681,
+        "LONGITUDE": -71.054915,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.054915,
+          42.314681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000314422.0,
+        "OPEN_DT": "08/15/2011 12:33:07 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "Case Closed NOVIO: No Violation Found/No Cause ",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "98 Knoll St  Roslindale  MA  02131",
+        "fire_district": 9,
+        "pwd_district": "06",
+        "city_council_district": 5,
+        "police_district": "E5",
+        "neighborhood": "Roslindale",
+        "neighborhood_services_district": 10,
+        "ward": "Ward 20",
+        "precinct": 2001,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "98 Knoll St",
+        "LOCATION_ZIPCODE": 2131,
+        "LATITUDE": 42.29308,
+        "LONGITUDE": -71.13582,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13582,
+          42.29308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000305253.0,
+        "OPEN_DT": "07/22/2011 06:57:07 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": " ",
+        "fire_district": null,
+        "pwd_district": " ",
+        "city_council_district": null,
+        "police_district": " ",
+        "neighborhood": " ",
+        "neighborhood_services_district": null,
+        "ward": " ",
+        "precinct": null,
+        "land_usage": " ",
+        "LOCATION_STREET_NAME": "",
+        "LOCATION_ZIPCODE": null,
+        "LATITUDE": 42.3594,
+        "LONGITUDE": -71.0587,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0587,
+          42.3594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000298927.0,
+        "OPEN_DT": "07/08/2011 12:21:56 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "24 Armington St  Allston  MA  02134",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 15,
+        "ward": "Ward 21",
+        "precinct": 2106,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "24 Armington St",
+        "LOCATION_ZIPCODE": 2134,
+        "LATITUDE": 42.352387,
+        "LONGITUDE": -71.137011,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.137011,
+          42.352387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000858190.0,
+        "OPEN_DT": "06/12/2013 09:09:24 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "516 Lagrange St  West Roxbury  MA  02132",
+        "fire_district": 12,
+        "pwd_district": "06",
+        "city_council_district": 6,
+        "police_district": "E5",
+        "neighborhood": "West Roxbury",
+        "neighborhood_services_district": 12,
+        "ward": "Ward 20",
+        "precinct": 2013,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "516 Lagrange St",
+        "LOCATION_ZIPCODE": 2132,
+        "LATITUDE": 42.28356,
+        "LONGITUDE": -71.16167,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16167,
+          42.28356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000993203.0,
+        "OPEN_DT": "12/30/2013 01:48:18 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "41 Grove St  Boston  MA  02114",
+        "fire_district": 3,
+        "pwd_district": "1B",
+        "city_council_district": 8,
+        "police_district": "A1",
+        "neighborhood": "Beacon Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 5",
+        "precinct": 504,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "41 Grove St",
+        "LOCATION_ZIPCODE": 2114,
+        "LATITUDE": 42.35978,
+        "LONGITUDE": -71.06878,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06878,
+          42.35978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000953611.0,
+        "OPEN_DT": "10/24/2013 04:42:33 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "22 Josephine St  Dorchester  MA  02122",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 15",
+        "precinct": 1508,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "22 Josephine St",
+        "LOCATION_ZIPCODE": 2122,
+        "LATITUDE": 42.30074,
+        "LONGITUDE": -71.06464,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06464,
+          42.30074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001122596.0,
+        "OPEN_DT": "07/07/2014 10:35:51 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "56 Granger St  Dorchester  MA  02122",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 15",
+        "precinct": 1506,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "56 Granger St",
+        "LOCATION_ZIPCODE": 2122,
+        "LATITUDE": 42.30269,
+        "LONGITUDE": -71.05737,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05737,
+          42.30269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000859491.0,
+        "OPEN_DT": "06/13/2013 03:28:00 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "24 Dunwell St  West Roxbury  MA  02132",
+        "fire_district": 12,
+        "pwd_district": "06",
+        "city_council_district": 6,
+        "police_district": "E5",
+        "neighborhood": "West Roxbury",
+        "neighborhood_services_district": 12,
+        "ward": "Ward 20",
+        "precinct": 2005,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "24 Dunwell St",
+        "LOCATION_ZIPCODE": 2132,
+        "LATITUDE": 42.27766,
+        "LONGITUDE": -71.16845,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16845,
+          42.27766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001025530.0,
+        "OPEN_DT": "02/13/2014 01:06:48 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "8 Oxford Pl  Boston  MA  02111",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 2,
+        "police_district": "A1",
+        "neighborhood": "Downtown / Financial District",
+        "neighborhood_services_district": 4,
+        "ward": "Ward 3",
+        "precinct": 308,
+        "land_usage": "R4",
+        "LOCATION_STREET_NAME": "8 Oxford Pl",
+        "LOCATION_ZIPCODE": 2111,
+        "LATITUDE": 42.351802,
+        "LONGITUDE": -71.060808,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.060808,
+          42.351802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000903427.0,
+        "OPEN_DT": "08/16/2013 11:54:44 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "191 Walworth St  Roslindale  MA  02131",
+        "fire_district": 12,
+        "pwd_district": "06",
+        "city_council_district": 5,
+        "police_district": "E5",
+        "neighborhood": "Roslindale",
+        "neighborhood_services_district": 10,
+        "ward": "20",
+        "precinct": 2009,
+        "land_usage": "",
+        "LOCATION_STREET_NAME": "191 Walworth St",
+        "LOCATION_ZIPCODE": 2131,
+        "LATITUDE": 42.278958,
+        "LONGITUDE": -71.137246,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.137246,
+          42.278958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001117642.0,
+        "OPEN_DT": "06/27/2014 07:11:40 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "125 Walworth St  Roslindale  MA  02131",
+        "fire_district": 12,
+        "pwd_district": "06",
+        "city_council_district": 5,
+        "police_district": "E5",
+        "neighborhood": "Roslindale",
+        "neighborhood_services_district": 10,
+        "ward": "Ward 20",
+        "precinct": 2009,
+        "land_usage": "R1",
+        "LOCATION_STREET_NAME": "125 Walworth St",
+        "LOCATION_ZIPCODE": 2131,
+        "LATITUDE": 42.28278,
+        "LONGITUDE": -71.13762,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13762,
+          42.28278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001123574.0,
+        "OPEN_DT": "07/08/2014 09:53:23 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "22-26 Hawthorne St  Roxbury  MA  02119",
+        "fire_district": 9,
+        "pwd_district": "10B",
+        "city_council_district": 7,
+        "police_district": "B2",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "11",
+        "precinct": 1102,
+        "land_usage": "",
+        "LOCATION_STREET_NAME": "22-26 Hawthorne St",
+        "LOCATION_ZIPCODE": 2119,
+        "LATITUDE": 42.3594,
+        "LONGITUDE": -71.0587,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0587,
+          42.3594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001117271.0,
+        "OPEN_DT": "06/27/2014 10:43:51 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "8 Robinwood Ave  Jamaica Plain  MA  02130",
+        "fire_district": 9,
+        "pwd_district": "02",
+        "city_council_district": 6,
+        "police_district": "E13",
+        "neighborhood": "Jamaica Plain",
+        "neighborhood_services_district": 11,
+        "ward": "19",
+        "precinct": 1904,
+        "land_usage": "",
+        "LOCATION_STREET_NAME": "8 Robinwood Ave",
+        "LOCATION_ZIPCODE": 2130,
+        "LATITUDE": 42.3594,
+        "LONGITUDE": -71.0587,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0587,
+          42.3594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001024880.0,
+        "OPEN_DT": "02/12/2014 12:49:25 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "54 Beach St  Boston  MA  02111",
+        "fire_district": 4,
+        "pwd_district": "1C",
+        "city_council_district": 2,
+        "police_district": "A1",
+        "neighborhood": "Downtown / Financial District",
+        "neighborhood_services_district": 4,
+        "ward": "Ward 3",
+        "precinct": 308,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "54 Beach St",
+        "LOCATION_ZIPCODE": 2111,
+        "LATITUDE": 42.3515,
+        "LONGITUDE": -71.06058,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06058,
+          42.3515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001023923.0,
+        "OPEN_DT": "02/11/2014 10:58:07 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "27 Pasadena Rd  Dorchester  MA  02121",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 4,
+        "police_district": "B2",
+        "neighborhood": "Roxbury",
+        "neighborhood_services_district": 13,
+        "ward": "Ward 14",
+        "precinct": 1403,
+        "land_usage": "CM",
+        "LOCATION_STREET_NAME": "27 Pasadena Rd",
+        "LOCATION_ZIPCODE": 2121,
+        "LATITUDE": 42.30551,
+        "LONGITUDE": -71.08273,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08273,
+          42.30551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000971992.0,
+        "OPEN_DT": "11/26/2013 08:02:36 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "1039-1045 Commonwealth Ave  Boston  MA  02215",
+        "fire_district": 11,
+        "pwd_district": "04",
+        "city_council_district": 9,
+        "police_district": "D14",
+        "neighborhood": "Allston / Brighton",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 21",
+        "precinct": 2103,
+        "land_usage": "RC",
+        "LOCATION_STREET_NAME": "1039-1045 Commonwealth Ave",
+        "LOCATION_ZIPCODE": 2215,
+        "LATITUDE": 42.352334,
+        "LONGITUDE": -71.122164,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.122164,
+          42.352334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101001120465.0,
+        "OPEN_DT": "07/02/2014 12:32:13 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "5 Coleman St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 15",
+        "precinct": 1504,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "5 Coleman St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.30917,
+        "LONGITUDE": -71.0652,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0652,
+          42.30917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000916065.0,
+        "OPEN_DT": "09/02/2013 12:45:54 PM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "53 Hillside St  Mission Hill  MA  02120",
+        "fire_district": 9,
+        "pwd_district": "10A",
+        "city_council_district": 8,
+        "police_district": "B2",
+        "neighborhood": "Mission Hill",
+        "neighborhood_services_district": 14,
+        "ward": "Ward 10",
+        "precinct": 1005,
+        "land_usage": "R3",
+        "LOCATION_STREET_NAME": "53 Hillside St",
+        "LOCATION_ZIPCODE": 2120,
+        "LATITUDE": 42.33025,
+        "LONGITUDE": -71.10121,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10121,
+          42.33025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "properties": {
+        "CASE_ENQUIRY_ID": 101000862095.0,
+        "OPEN_DT": "06/18/2013 10:04:51 AM",
+        "CLOSED_DT": null,
+        "CASE_STATUS": "Open",
+        "CLOSURE_REASON": "",
+        "CASE_TITLE": "Rodent Activity",
+        "SUBJECT": "Inspectional Services",
+        "REASON": "Environmental Services",
+        "TYPE": "Rodent Activity",
+        "QUEUE": "ISD_Environmental Services (INTERNAL)",
+        "Department": "ISD",
+        "Location": "3 Trent St  Dorchester  MA  02125",
+        "fire_district": 7,
+        "pwd_district": "03",
+        "city_council_district": 3,
+        "police_district": "C11",
+        "neighborhood": "Dorchester",
+        "neighborhood_services_district": 8,
+        "ward": "Ward 15",
+        "precinct": 1504,
+        "land_usage": "RL",
+        "LOCATION_STREET_NAME": "3 Trent St",
+        "LOCATION_ZIPCODE": 2125,
+        "LATITUDE": 42.309239,
+        "LONGITUDE": -71.065412,
+        "Source": "Constituent Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.065412,
+          42.309239
+        ]
+      }
+    }
+  ]
+}
