@@ -1,65 +1,74 @@
 
-<!DOCTYPE html>
 <html>
 <head>
-	
-	<title>Custom Icons Tutorial - Leaflet</title>
-
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
-
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-
-
-	<style>
-		html, body {
-			height: 100%;
-			margin: 0;
-		}
-		#map {
-			width: 600px;
-			height: 400px;
-		}
-	</style>
-
-	
+  <title>Army of Ants</title>
+  <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7.3/leaflet.css" />
+  <link rel="stylesheet" href="MarkerCluster.css" />
+  <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7.3/leaflet.js"></script>
+  <script src="leaflet.markercluster.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <style>
+    #map{ height: 100% }
+  </style>
 </head>
 <body>
-
-<div id='map'></div>
-
-<script>
-	var map = L.map('map').setView([23.777176, 90.399452], 13);
-
-	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-	}).addTo(map);
-
-	var LeafIcon = L.Icon.extend({
-		options: {
-			shadowUrl: 'leaf-shadow.png',
-			iconSize:     [38, 95],
-			shadowSize:   [50, 64],
-			iconAnchor:   [22, 94],
-			shadowAnchor: [4, 62],
-			popupAnchor:  [-3, -76]
-		}
-	});
-
-	var greenIcon = new LeafIcon({iconUrl: 'lmnCar.jpg'}),
-		redIcon = new LeafIcon({iconUrl: 'af.jpg'}),
-		orangeIcon = new LeafIcon({iconUrl: 'lmnCar.jpg'});
-var l =23.79860;
-	L.marker([l, 90.34804], {icon: greenIcon}).bindPopup("PHP Developer").addTo(map);
-	L.marker([l, 90.34805], {icon: redIcon}).bindPopup("JavaScript Developer").addTo(map);
-	L.marker([51.49, -0.1], {icon: orangeIcon}).bindPopup("I am an orange leaf.").addTo(map);
-
-</script>
-
-
-
+ 
+  <div id="map"></div>
+ 
+  <script>
+ 
+  // initialize the map
+  var map = L.map('map').setView([23.777176, 90.399452], 13);
+ 
+  // load a tile layer
+  L.tileLayer(
+    'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 17,
+      minZoom: 9
+    }).addTo(map);
+    
+  $.getJSON("neighborhoods.geojson",function(hoodData){
+    L.geoJson( hoodData, {
+      style: function(feature){
+        var fillColor,
+            density = feature.properties.density;
+        if ( density > 80 ) fillColor = "#006837";
+        else if ( density > 40 ) fillColor = "#31a354";
+        else if ( density > 20 ) fillColor = "#78c679";
+        else if ( density > 10 ) fillColor = "#c2e699";
+        else if ( density > 0 ) fillColor = "#ffffcc";
+        else fillColor = "#f7f7f7";  // no data
+        return { color: "#999", weight: 1, fillColor: fillColor, fillOpacity: .6 };
+      },
+      onEachFeature: function( feature, layer ){
+        layer.bindPopup( "<strong>" + feature.properties.Name + "</strong><br/>" + feature.properties.density + " rats per square mile" )
+      }
+    }).addTo(map);
+  });
+ 
+  $.getJSON("rodents.geojson",function(data){
+    var antIcon = L.icon({
+      // iconUrl: 'http://andywoodruff.com/maptime-leaflet/rat.png',
+      iconUrl: 'rant.png',
+      iconSize: [60,50]
+    });
+    var rodents = L.geoJson(data,{
+      pointToLayer: function(feature,latlng){
+        // 
+        var marker = L.marker(latlng,{icon: antIcon});
+        console.log(feature.properties.IMAGE_SOURCE);
+        marker.bindPopup('<img src="'+feature.properties.IMAGE_SOURCE+'"height="60px" width="60px"><br/>'+feature.properties.EMPLOYEE + '<br/>' + feature.properties.DESIGNATION);
+        // marker.bindPopup(feature.properties.EMPLOYEE + '<br/>' + feature.properties.DESIGNATION);
+        return marker;
+      }
+    });
+    var clusters = L.markerClusterGroup();
+    clusters.addLayer(rodents);
+    map.addLayer(clusters);
+  });
+ 
+  </script>
 </body>
 </html>
