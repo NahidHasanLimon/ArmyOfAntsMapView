@@ -7,18 +7,18 @@
       "properties": {
         "EMPLOYEE": "Nahid Hasan Limon",
 	    "DESIGNATION": "Software Engineer",
-	    "IMAGE_SOURCE": "rant.png",
+	    "IMAGE_SOURCE": "lmnCar.jpg",
         "LOCATION_STREET_NAME": "Dhaka Commerce College",
         "LOCATION_ZIPCODE": 1216,
-        "LATITUDE": 23.806746,
-        "LONGITUDE": 90.3529347,
+        "LATITUDE": 23.8043854,
+        "LONGITUDE": 90.3581286,
         "Source": "Antopolis"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.3529347,
-          23.806746
+          90.3581286,
+          23.8043854
         ]
       }
     },
@@ -28,7 +28,7 @@
       "properties": {
  		"EMPLOYEE": "Shaon Minhaz",
         "DESIGNATION": "Content Director",
-        "IMAGE_SOURCE": "rant.png",
+        "IMAGE_SOURCE": "AntopolisLogo.png",
         "LOCATION_STREET_NAME": "NIKUNJA 1",
         "LOCATION_ZIPCODE": 1216,
         "LATITUDE": 23.8242795,
@@ -110,7 +110,7 @@
       "type": "Feature",
       "id": 6,
       "properties": {
-        "EMPLOYEE": "Adnan Rahman",
+        "EMPLOYEE": "S M Adnan Faroque",
 	    "DESIGNATION": "Product Engineer",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Mirpur College University",
