@@ -6,12 +6,14 @@
       "id": 1,
       "properties": {
         "EMPLOYEE": "Nahid Hasan Limon",
+        "SEARCH_STRING": "NahidHasanLimon",
 	    "DESIGNATION": "Software Engineer",
 	    "IMAGE_SOURCE": "lmnCar.jpg",
         "LOCATION_STREET_NAME": "Dhaka Commerce College",
         "LOCATION_ZIPCODE": 1216,
         "LATITUDE": 23.8043854,
         "LONGITUDE": 90.3581286,
+        "title":"limon",
         "Source": "Antopolis"
       },
       "geometry": {
@@ -27,6 +29,7 @@
       "id": 2,
       "properties": {
  		"EMPLOYEE": "Shaon Minhaz",
+        "SEARCH_STRING": "ShaonMinhaz",
         "DESIGNATION": "Content Director",
         "IMAGE_SOURCE": "AntopolisLogo.png",
         "LOCATION_STREET_NAME": "NIKUNJA 1",
@@ -48,8 +51,9 @@
       "id": 3,
       "properties": {
         "EMPLOYEE": "Sheehan Rahman",
-	    "DESIGNATION": "CEO",
-	    "IMAGE_SOURCE": "rant.png",
+        "SEARCH_STRING": "SheehanRahman",
+	     "DESIGNATION": "CEO",
+	    "IMAGE_SOURCE": "Sheehan.JPG",
          "LOCATION_STREET_NAME": "Niketon",
         "LOCATION_ZIPCODE": 1216,
         "LATITUDE": 23.77498615,
@@ -69,6 +73,7 @@
       "id": 4,
       "properties": {
         "EMPLOYEE": "Anan Meem",
+        "SEARCH_STRING": "AnanMeem",
 	    "DESIGNATION": "HR",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Banani Model Schoo",
@@ -90,6 +95,7 @@
       "id": 5,
       "properties": {
         "EMPLOYEE": "Mirza Belal Ahmed",
+        "SEARCH_STRING": "MirzaBelalAhmed",
 	    "DESIGNATION": "CTO",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Khilgaon Govt. Colony",
@@ -101,7 +107,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.41760927863902,
+          90.41760927863909,
           23.7496898
         ]
       }
@@ -111,6 +117,7 @@
       "id": 6,
       "properties": {
         "EMPLOYEE": "S M Adnan Faroque",
+        "SEARCH_STRING": "SMAdnan Faroque",
 	    "DESIGNATION": "Product Engineer",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Mirpur College University",
@@ -133,6 +140,7 @@
       "properties": {
         "EMPLOYEE": "Shazzad Shourov",
 	    "DESIGNATION": "Product Engineer",
+      "SEARCH_STRING": "ProductEngineer",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Khilgaon Govt. Colony",
         "LOCATION_ZIPCODE": 1216,
@@ -153,6 +161,7 @@
       "id": 8,
       "properties": {
         "EMPLOYEE": "Sadman Towsif",
+        "SEARCH_STRING": "SadmanTowsif",
 	    "DESIGNATION": "Project Manager",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Khilgaon Govt. Colony",
@@ -173,6 +182,7 @@
       "id": 9,
       "properties": {
         "EMPLOYEE": "Mir Zariful Karim",
+        "SEARCH_STRING": "MirZarifulKarim",
 	    "DESIGNATION": "Client Service Executive",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Khilgaon Govt. Colony",
@@ -193,8 +203,9 @@
       "id": 10,
       "properties": {
         "EMPLOYEE": "Sadia Afrin Nitol",
+        "SEARCH_STRING": "SadiaAfrinNitol",
 	    "DESIGNATION": "Art Director",
-	    "IMAGE_SOURCE": "rant.png",
+	    "IMAGE_SOURCE": "Sadia.png",
         "LOCATION_STREET_NAME": "Niketon",
         "LOCATION_ZIPCODE": 1216,
         "LATITUDE": 23.77498615,
@@ -213,6 +224,7 @@
       "id": 11,
       "properties": {
         "EMPLOYEE": "Sheikh Waliur Rahman",
+        "SEARCH_STRING": "SheikhWaliurRahman",
 	    "DESIGNATION": "Back-End Web Developer Intern",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Dhanmondi 32 no. Lake Park",
@@ -233,6 +245,7 @@
       "id": 12,
       "properties": {
         "EMPLOYEE": "Raihan Kabir",
+        "SEARCH_STRING": "RaihanKabir",
 	    "DESIGNATION": "Web Front End Developer",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Mohakhali Bus Station",
@@ -253,6 +266,7 @@
       "id": 13,
       "properties": {
         "EMPLOYEE": "Rasel Munshi",
+        "SEARCH_STRING": "RaselMunshi",
 	    "DESIGNATION": "Software Engineer",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Gulshan Link Road",
@@ -273,6 +287,7 @@
       "id": 15,
       "properties": {
         "EMPLOYEE": "Washib Nabil",
+        "SEARCH_STRING": "WashibNabil",
 	    "DESIGNATION": "Head of Client Services",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Sector 10,Uttara, hostel, Dhaka, Bangladesh",
@@ -293,6 +308,7 @@
       "id": 15,
       "properties": {
         "EMPLOYEE": "Mouly Tasnim Badrul",
+        "SEARCH_STRING": "MoulyTasnimBadrul",
 	    "DESIGNATION": "Client Service Executive",
 	    "IMAGE_SOURCE": "rant.png",
         "LOCATION_STREET_NAME": "Pashcim Shewrapara, suburb, Dhaka, Bangladesh",

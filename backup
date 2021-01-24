@@ -1,0 +1,26 @@
+// new start
+  // var searchLayer = L.layerGroup().addTo(map);
+  // var searchLayer = L.geoJson().addTo(map);
+  var controlSearch = new L.Control.Search({
+    position:'topright',    
+    // layer: markersLayer,
+    initial: false,
+    zoom: 12,
+    marker: false
+  });
+
+  map.addControl( controlSearch );
+
+
+  ////////////populate map with markers from sample data
+  for(i in data) {
+    console.log(new L.latLng(loc));
+    // console.log(data[i].title);
+    // console.log(data[i].loc);
+    var title = data[i].title,  //value searched
+      loc = data[i].loc,    //position found
+      marker = new L.Marker(new L.latLng(loc), {title: title} );//se property searched
+    marker.bindPopup('title: '+ title );
+    // markersLayer.addLayer(marker);
+  }
+      //end  new

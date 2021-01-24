@@ -5,21 +5,137 @@
   <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7.3/leaflet.css" />
   <link rel="stylesheet" href="MarkerCluster.css" />
   <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7.3/leaflet.js"></script>
+
   <script src="leaflet.markercluster.js"></script>
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+  <!-- for search -->
+  <link rel="stylesheet" href="search/src/leaflet-search.css" />
+  <link rel="stylesheet" href="search/src/leaflet-search.mobile.css" />
+  <link rel="stylesheet" href="search/examples/mobile.css" />
+  <script src="search/src/leaflet-search.js"></script>
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <!-- end of search -->
   <style>
     #map{ height: 100% }
+/*    body {
+  background:#b5d0d0;
+  color:#285585;
+  font-family:Arial;
+}
+body#home {
+  background:url('images/back.png') no-repeat top left #b5d0d0;
+  margin-left:150px;
+}
+
+a {
+  color:#1978cf;
+}
+a:hover {
+  color:#fff;
+}
+h2, h3, h4 {
+  white-space:nowrap;
+  margin:1em 0 0 0;
+}
+h3 a,
+h3 a:hover {
+  text-decoration:none;
+}
+#desc {
+  float: left;
+  margin-bottom: 1em;
+  position: relative;
+  white-space:nowrap;
+  font-size:1em;
+}
+#map {
+  border-radius:.125em;
+  border:2px solid #1978cf;
+  margin: 4px 0;
+  float:left;
+  width:600px;
+  height:400px; 
+}
+ul {
+  font-size:.85em;
+  margin:0;
+  padding:0;
+}
+li {
+  margin:0 0 2px 18px;
+}
+#post-it {
+  width:9em;
+  height:9em;
+  margin-left:2em;
+  padding:1em;
+  float:left;
+  background:#fbf5bf;
+  border:1px solid #c6bb58;
+  box-shadow: 2px 2px 6px #999;
+  color:#666;
+}
+#copy {
+  position:fixed;
+  z-index:1000;
+  right:150px;
+  top:-8px;
+  font-size:.85em;
+  padding:8px 8px 2px 8px;
+  background: #323b44;
+  border: 2px solid #737c85;    
+  border-radius:.7em;
+  opacity: 0.9;
+  box-shadow:0 0 8px #5f7182;
+  color:#eee
+}
+#copy a {
+  color:#ccc;
+  text-decoration:none
+}
+#copy a:hover {
+  color:#fff
+}
+#ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+  filter: alpha(opacity=80);
+  -khtml-opacity: .8;
+  -moz-opacity: .8;
+  opacity: .8;    
+}
+.contents {
+  float:left;
+  margin:0 2em 2em 0;
+}
+#comments {
+  clear:both;
+}
+*/
   </style>
 </head>
 <body>
  
-  <div id="map"></div>
+  <!-- <div id="map"></div> -->
+  <!-- <h3><a href="../"><big>◄</big> Leaflet.Control.Search</a></h3> -->
+
+
+<div id="map"></div>
+
+
  
   <script>
+     // new
+ // new
  
   // initialize the map
-  var map = L.map('map').setView([23.777176, 90.399452], 13);
- 
+  var map = L.map('map',{zoom: 5, center: new L.latLng([37.8, -96]) }).setView([23.777176, 90.399452], 13);
+
+
   // load a tile layer
   L.tileLayer(
     'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
@@ -28,8 +144,7 @@
       maxZoom: 17,
       minZoom: 9
     }).addTo(map);
-    
-  $.getJSON("neighborhoods.geojson",function(hoodData){
+   $.getJSON("neighborhoods.geojson",function(hoodData){
     L.geoJson( hoodData, {
       style: function(feature){
         var fillColor,
@@ -47,28 +162,52 @@
       }
     }).addTo(map);
   });
- 
+
   $.getJSON("rodents.geojson",function(data){
     var antIcon = L.icon({
-      // iconUrl: 'http://andywoodruff.com/maptime-leaflet/rat.png',
       iconUrl: 'rant.png',
-      iconSize: [60,50]
+      iconSize: [70,80]
     });
     var rodents = L.geoJson(data,{
       pointToLayer: function(feature,latlng){
         // 
         var marker = L.marker(latlng,{icon: antIcon});
-        console.log(feature.properties.IMAGE_SOURCE);
+        // console.log(latlng);
+        // console.log(feature.properties.IMAGE_SOURCE);
         marker.bindPopup('<img src="'+feature.properties.IMAGE_SOURCE+'"height="60px" width="60px"><br/>'+feature.properties.EMPLOYEE + '<br/>' + feature.properties.DESIGNATION);
         // marker.bindPopup(feature.properties.EMPLOYEE + '<br/>' + feature.properties.DESIGNATION);
         return marker;
       }
     });
+    // var fuck =$.getJSON("rodents.geojson");
+    // console.log(fuck);
     var clusters = L.markerClusterGroup();
     clusters.addLayer(rodents);
     map.addLayer(clusters);
+    // new
+    map.addControl(new L.Control.Search({
+            layer: clusters,
+            textPlaceholder: 'Search by Employee  Name...',
+            propertyName: 'EMPLOYEE',
+             moveToLocation: function(latlng) {
+             // map.setView(latlng, 13); // set the zoom
+             // var zoom = map.getBoundsZoom(latlng.layer.getBounds());
+             // map.fitBounds( latlng.getBounds() );
+             // var group =latlng.layer;
+
+// map.fitBounds(group.getBounds());
+             // map.getBounds().contains(layer.getLatLng())
+              // map.setView(latlng, zoom);
+              console.log(latlng);
+              // var bounds = L.latLngBounds(latlng.layer);
+// map.fitBounds(bounds);
+        }
+
+        })
+    );
   });
- 
   </script>
+ <script type="text/javascript" src="search/labs-common.js"></script>
+ 
 </body>
 </html>
